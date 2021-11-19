@@ -1,5 +1,5 @@
 def logs_parser(data, context):
-    print("works")
+    print("works finally")
     from google.cloud import bigquery
     from google.cloud import storage
     import pandas as pd
